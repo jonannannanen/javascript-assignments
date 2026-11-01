@@ -12,3 +12,4 @@ JS Modules 1 and 2:
 
     exercise 4: https://github.com/jonannannanen/javascript-assignments/tree/3e2cb47d0c9892eae026fdb832f07f7aaa08bd7a/JS1-2ex.4
 
+    exercise 7: https://github.com/jonannannanen/javascript-assignments/tree/392d08aeabfe2ad09e1473873cecee45e6d16aa3/JS1-ex.7

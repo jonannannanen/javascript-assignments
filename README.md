@@ -17,4 +17,6 @@ JS Modules 1 and 2:
 
 JS Module 3:
 
-    exercise 1: 
+    exercise 1: https://github.com/jonannannanen/javascript-assignments/tree/18f0bef0879d45b7b3875b127e6145e52d08570f/JS3ex.1
+
+    

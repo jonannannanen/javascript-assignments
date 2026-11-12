@@ -23,4 +23,7 @@ JS Module 3:
 
     exercise 3: https://github.com/jonannannanen/javascript-assignments/tree/684f37b0f86850852ce7f6fefeca9c39194af701/JS3ex.3
 
-    exercise 4: 
+    exercise 4: https://github.com/jonannannanen/javascript-assignments/tree/5f1e7c5b783d5d0b63207db8e807ae8459e12f34/JS3ex.4
+
+    exercise 5: https://github.com/jonannannanen/javascript-assignments/tree/5f1e7c5b783d5d0b63207db8e807ae8459e12f34/JS3ex.5
+    

@@ -29,10 +29,10 @@ JS Module 3:
 
 JS Module 4:
 
-    exercise 1: 
+    exercise 1: https://github.com/jonannannanen/javascript-assignments/tree/e130a3d69a7fcfffe0df90603937ac9c24950390/t1
 
-    exercise 2: 
+    exercise 2: https://github.com/jonannannanen/javascript-assignments/tree/e130a3d69a7fcfffe0df90603937ac9c24950390/t2
 
-    exercise 7:
+    exercise 7: https://github.com/jonannannanen/javascript-assignments/tree/e130a3d69a7fcfffe0df90603937ac9c24950390/t4
 
-    exercise 11:
+    exercise 11: https://github.com/jonannannanen/javascript-assignments/tree/e130a3d69a7fcfffe0df90603937ac9c24950390/t8
